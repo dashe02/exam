@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+<script type="text/javascript">
+    var Cal=function(x,y){
+        this.x=x;
+        this.y=y;
+    }
+    Cal.prototype.operations={
+        '+':function(x,y){return x+y;},
+        '-':function(x,y){return x-y;}
+    };
+    Cal.prototype.calculate=function(operation){
+        return this.operations[operation](this.x,this.y);
+    }
+    var c=new Cal(4,5);
+    c.calculate("+");
+    c.calculate("-");
+</script>
+</head>
+<body>
+
+</body>
+</html>
