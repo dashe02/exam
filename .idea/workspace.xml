@@ -35,7 +35,7 @@
     <file path="/ShapeFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399881356152" ignored="false" />
     <file path="/CircleFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399881487158" ignored="false" />
     <file path="/SquareFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399881569673" ignored="false" />
-    <file path="/Main.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401195644648" ignored="false" />
+    <file path="/Main.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401720956215" ignored="false" />
     <file path="/test1.html" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399115996731" ignored="false" />
     <file path="/test2.html" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399118330206" ignored="false" />
     <file path="F:/gitcommit/platform/riskManagement/src/main/webapp/map/js/rightHidePanel.js" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399122316812" ignored="false" />
@@ -104,16 +104,16 @@
     <file path="/security-applicationContext.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399859090670" ignored="false" />
     <file path="/fragment.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401287567260" ignored="false" />
     <file path="/Singlen.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882358404" ignored="false" />
-    <file path="/ICar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401276733543" ignored="false" />
-    <file path="/BmwCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401277053870" ignored="false" />
+    <file path="/ICar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401719436643" ignored="false" />
+    <file path="/BmwCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401719484401" ignored="false" />
     <file path="/AodiCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882701453" ignored="false" />
     <file path="/ICarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882758701" ignored="false" />
     <file path="/BmwCarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882823151" ignored="false" />
     <file path="/AodiCarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882875302" ignored="false" />
     <file path="/Singleton1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883281879" ignored="false" />
-    <file path="/IAnimal.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883518723" ignored="false" />
-    <file path="/Cat.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883558191" ignored="false" />
-    <file path="/Dog.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883591104" ignored="false" />
+    <file path="/IAnimal.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401758526052" ignored="false" />
+    <file path="/Cat.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401758555615" ignored="false" />
+    <file path="/Dog.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401758594492" ignored="false" />
     <file path="/IAnimalFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883892377" ignored="false" />
     <file path="/CatFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883933829" ignored="false" />
     <file path="/DogFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399883976972" ignored="false" />
@@ -258,11 +258,11 @@
     <file path="/MyDataSource.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401538945880" ignored="false" />
     <file path="$PROJECT_DIR$/../sqltest/src/main/java/entity/Topic.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401413826717" ignored="false" />
     <file path="/Topic.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401413630906" ignored="false" />
-    <file path="$PROJECT_DIR$/../sqltest/src/main/java/web/UserWeb.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401699341319" ignored="false" />
+    <file path="$PROJECT_DIR$/../sqltest/src/main/java/web/UserWeb.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401717733411" ignored="false" />
     <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/UserDao.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401537154883" ignored="false" />
     <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/TopicDao.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401537161395" ignored="false" />
-    <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/impl/UserDaoImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401621051626" ignored="false" />
-    <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/impl/TopicDaoImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401693978971" ignored="false" />
+    <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/impl/UserDaoImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401710447297" ignored="false" />
+    <file path="$PROJECT_DIR$/../sqltest/src/main/java/dao/impl/TopicDaoImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401717719739" ignored="false" />
     <file path="/UserDao.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401531397207" ignored="false" />
     <file path="/TopicDao.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401537161395" ignored="false" />
     <file path="/UserDaoImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401612056640" ignored="false" />
@@ -299,6 +299,26 @@
     <file path="/ArithHelper.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401608545217" ignored="false" />
     <file path="/BinarySearch.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401693104830" ignored="false" />
     <file path="/BinarySearchDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401614981762" ignored="false" />
+    <file path="/ReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401700940312" ignored="false" />
+    <file path="/HtmlReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401700985958" ignored="false" />
+    <file path="/PdfReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401701047123" ignored="false" />
+    <file path="/ReportService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401719282515" ignored="false" />
+    <file path="/components.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401710333238" ignored="false" />
+    <file path="/Container.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401756794090" ignored="false" />
+    <file path="/GenerateReport.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715440320" ignored="false" />
+    <file path="/HtmlGenerateReport.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715461825" ignored="false" />
+    <file path="/PdfGenerateReport.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715662882" ignored="false" />
+    <file path="/components2.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401717511045" ignored="false" />
+    <file path="/reportService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715863545" ignored="false" />
+    <file path="/AudiCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401719564927" ignored="false" />
+    <file path="/CarService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401756502332" ignored="false" />
+    <file path="/CarContainer.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401756905935" ignored="false" />
+    <file path="/carcomponents.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401720240455" ignored="false" />
+    <file path="/components3.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401758273190" ignored="false" />
+    <file path="/AnimalService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401759676018" ignored="false" />
+    <file path="/AnimalContainer.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401759583247" ignored="false" />
+    <file path="/animals.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401759723282" ignored="false" />
+    <file path="/AnimalMain.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401759610695" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +343,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/whut/test/Test9.java" line="52" class="org.whut.test.Test9" package="org.whut.test">
         <option name="ENABLED" value="true" />
@@ -388,7 +408,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -414,22 +434,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/java/exam/ArrayStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/java/exam/calculate/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/java/exam/calculate/ArithHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/java/exam/calculate/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structure/sort/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structure/test/BinarySearchDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/selectSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structure/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structure/test/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/sort/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/BmwCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/AudiCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ioc/Container.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/carcomponents.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/components3.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/CarService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/CarContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/IAnimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/AnimalMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/AnimalContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myioc/AnimalService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/animals.properties" />
       </list>
     </option>
   </component>
@@ -442,6 +462,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="test4" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -470,20 +504,6 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="test4" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
@@ -491,9 +511,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="y" value="96" />
-    <option name="width" value="1226" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -556,10 +576,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -581,70 +641,29 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.java.test.javaBase.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git\test4\src\main\java\test" />
+      <recent name="F:\git\test4\src" />
+      <recent name="F:\git\test4\src\main\java" />
       <recent name="F:\git\test4\src\main\resources" />
-      <recent name="\" />
+      <recent name="F:\git\test4\web\WEB-INF\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="demo.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="demo.sort.QuickSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test4" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="selectSort" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="demo.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="demo.sort.selectSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test4" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AnimalMain">
     <configuration default="false" name="SelectSort" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -711,6 +730,50 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="spring.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test4" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AnimalMain" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="myioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="myioc.AnimalMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test4" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -746,6 +809,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -772,19 +848,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -876,19 +939,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.InsertSort" />
       <item index="1" class="java.lang.String" itemvalue="Application.Test9" />
-      <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.selectSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SelectSort" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="6" class="java.lang.String" itemvalue="Application.BinarySearch" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SelectSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="6" class="java.lang.String" itemvalue="Application.AnimalMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnimalMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -944,34 +1007,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="96" width="1226" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957503" sideWeight="0.6355786" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13257575" sideWeight="0.58551306" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25042883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3516295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295711" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2442478" sideWeight="0.6212121" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24335378" sideWeight="0.6212121" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07130584" sideWeight="0.7221269" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05" sideWeight="0.5368782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3070326" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25687286" sideWeight="0.7221269" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27787307" sideWeight="0.9973615" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24621212" sideWeight="0.5368782" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46312177" sideWeight="0.9973615" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.3051225" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1039,114 +1102,120 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Test.java">
+    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="218" selection-end="218" vertical-scroll-proportion="0.49815497">
+        <state line="1190" column="23" selection-start="43060" selection-end="43060" vertical-scroll-proportion="-1.2289157">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/QuickSort.java">
+    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="-1.825">
+        <state line="2031" column="25" selection-start="86181" selection-end="86181" vertical-scroll-proportion="0.6313253">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/QuickSort.java">
+    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="21" selection-start="1115" selection-end="1116" vertical-scroll-proportion="0.746875">
+        <state line="323" column="29" selection-start="14017" selection-end="14017" vertical-scroll-proportion="-2.2048192">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/InsertDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="0.33333334">
+        <state line="27" column="88" selection-start="702" selection-end="724" vertical-scroll-proportion="1.0842491">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="52" selection-start="284" selection-end="284" vertical-scroll-proportion="-0.02097902">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/SelectSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/components3.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="0.110192835">
+        <state line="2" column="43" selection-start="92" selection-end="92" vertical-scroll-proportion="0.18881118">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/SelectSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="505" selection-end="505" vertical-scroll-proportion="0.6280992">
+        <state line="9" column="29" selection-start="187" selection-end="187" vertical-scroll-proportion="0.36263737">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="7" column="20" selection-start="123" selection-end="123" vertical-scroll-proportion="0.43356642">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/CarContainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="-0.10539846">
+        <state line="32" column="17" selection-start="957" selection-end="957" vertical-scroll-proportion="0.76095617">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/IAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="324" selection-end="324" vertical-scroll-proportion="0.27763495">
+        <state line="13" column="39" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/ShellSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="505" selection-end="505" vertical-scroll-proportion="0.6656347">
+        <state line="10" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sorttest/SelectSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/AnimalContainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="-0.17027864">
+        <state line="29" column="37" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/AnimalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="329" selection-end="343" vertical-scroll-proportion="0.4965035">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sorttest/ShellSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/animals.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="40" selection-start="642" selection-end="642" vertical-scroll-proportion="1.0939087">
+        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/ShellSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myioc/AnimalMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="29" selection-start="1479" selection-end="1479" vertical-scroll-proportion="2.6220472">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structure/test/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="71" selection-start="1248" selection-end="1410" vertical-scroll-proportion="0.5888325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/sort/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="40" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.5888325">
+        <state line="14" column="21" selection-start="426" selection-end="426" vertical-scroll-proportion="0.72161174">
           <folding />
         </state>
       </provider>
