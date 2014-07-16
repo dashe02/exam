@@ -36,7 +36,7 @@ public class MergeSort {
           while(r1<=right){
               tmp[tIndex++]=a[r1++];
           }
-          while(cIndex<=right){
+          while(cIndex<right){
               a[cIndex]=tmp[cIndex];
               cIndex++;
           }
