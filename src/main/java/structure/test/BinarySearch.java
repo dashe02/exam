@@ -39,7 +39,7 @@ public class BinarySearch {
     }
     public static void main(String[] args){
         int[] dataset=new int[]{1,3,5,7,8,9};
-        System.out.println(binarySearch(dataset,8));
-        System.out.println(binarySearch(dataset,8,0,dataset.length-1));
+        System.out.println(binarySearch(dataset,3));
+        System.out.println(binarySearch(dataset,3,0,dataset.length-1));
     }
 }

@@ -34,7 +34,7 @@ public class FlyweightPattern {
         System.out.println("objSize=" + objSize);
     }
     public static void main(String[] args){
-        System.out.println("The FlyWeight Pattern!");
+        System.out.println("The FlyWeight IsPattern!");
         FlyweightPattern fp=new FlyweightPattern();
         fp.showFlyweight();
     }

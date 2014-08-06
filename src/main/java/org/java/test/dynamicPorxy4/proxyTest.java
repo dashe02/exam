@@ -10,7 +10,7 @@ package org.java.test.dynamicPorxy4;
 public class proxyTest {
     public static void main(String[] args){
         ICarProxy proxy=new ICarProxy();
-        ICar iCarProxy=(ICar)proxy.bind(new BmwCar());
+        ICar iCarProxy=(ICar)proxy.bind(new AudiCar());
         iCarProxy.start();
         iCarProxy.run();
         iCarProxy.stop();
