@@ -4,7 +4,7 @@
     <list default="true" id="4f680436-0bda-47ad-b5b7-2da0bec14e7b" name="Default" comment="" />
     <ignored path="test4.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/PublicResource.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399024622838" ignored="false" />
+    <file path="/PublicResource.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408247549251" ignored="false" />
     <file path="/Publish.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399025609273" ignored="false" />
     <file path="/Consume.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399025966252" ignored="false" />
     <file path="/PublicConsumeTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399024574942" ignored="false" />
@@ -26,8 +26,8 @@
     <file path="/ConnectTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399032946551" ignored="false" />
     <file path="/StringBufferTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399034204824" ignored="false" />
     <file path="/StringTet.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399034788347" ignored="false" />
-    <file path="/StringTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407116750047" ignored="false" />
-    <file path="/Dummy.txt" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407857629677" ignored="false" />
+    <file path="/StringTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408343734618" ignored="false" />
+    <file path="/Dummy.txt" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408258693226" ignored="false" />
     <file path="/MongoConnector.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400151314571" ignored="false" />
     <file path="/Shape.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399881944644" ignored="false" />
     <file path="/Circle.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399881262562" ignored="false" />
@@ -47,14 +47,14 @@
     <file path="F:/gitcommit/platform/riskManagement/src/main/webapp/companyRisk.jsp" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399122566177" ignored="false" />
     <file path="/IBusiness.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399199164054" ignored="false" />
     <file path="/IBusiness2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399199333560" ignored="false" />
-    <file path="/Business.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399199325020" ignored="false" />
+    <file path="/Business.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408290714053" ignored="false" />
     <file path="/LogInvocationHandler.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399199643810" ignored="false" />
     <file path="/PersonBuilder.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399256730152" ignored="false" />
     <file path="/Person.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399726890206" ignored="false" />
     <file path="/ConcreteBuilder.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399256814598" ignored="false" />
     <file path="/ManBuilder.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399254792111" ignored="false" />
     <file path="/PersonDirector.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399256922928" ignored="false" />
-    <file path="/Test.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407669579398" ignored="false" />
+    <file path="/Test.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408346182864" ignored="false" />
     <file path="/CarModel.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399260043772" ignored="false" />
     <file path="/BenzModel.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399260284729" ignored="false" />
     <file path="/BMWModel.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399260517112" ignored="false" />
@@ -102,10 +102,10 @@
     <file path="/MyCacheTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399728374849" ignored="false" />
     <file path="F:/gitcommit/platform/riskManagement/riskManagementWeb/src/main/webapp/WEB-INF/security-applicationContext.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401070433756" ignored="false" />
     <file path="/security-applicationContext.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399859090670" ignored="false" />
-    <file path="/fragment.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407679352195" ignored="false" />
+    <file path="/fragment.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408328959227" ignored="false" />
     <file path="/Singlen.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882358404" ignored="false" />
-    <file path="/ICar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407029058793" ignored="false" />
-    <file path="/BmwCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407028998946" ignored="false" />
+    <file path="/ICar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408091022247" ignored="false" />
+    <file path="/BmwCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408091055334" ignored="false" />
     <file path="/AodiCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399882701453" ignored="false" />
     <file path="/ICarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406710165965" ignored="false" />
     <file path="/BmwCarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406708376320" ignored="false" />
@@ -130,7 +130,7 @@
     <file path="$PROJECT_DIR$/../springAopTest/.idea/workspace.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399894369314" ignored="false" />
     <file path="$PROJECT_DIR$/../springAopTest/.idea/compiler.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399886430408" ignored="false" />
     <file path="F:/gitcommit/platform/.idea/workspace.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399891431314" ignored="false" />
-    <file path="/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406969917710" ignored="false" />
+    <file path="/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408178584052" ignored="false" />
     <file path="$PROJECT_DIR$/../springAopTest/.idea/misc.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399892289119" ignored="false" />
     <file path="$PROJECT_DIR$/../springAopTest/src/main/webapp/WEB-INF/applicationContext.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399892288647" ignored="false" />
     <file path="/applicationContext.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399893105389" ignored="false" />
@@ -143,12 +143,12 @@
     <file path="/web.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399893448878" ignored="false" />
     <file path="$PROJECT_DIR$/../springAopTest/src/org/whut/pring/aop/test/web/AutoLoadBeanImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399893326848" ignored="false" />
     <file path="/AutoLoadBeanImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399893216036" ignored="false" />
-    <file path="/Watched.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406717726965" ignored="false" />
+    <file path="/Watched.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074011670" ignored="false" />
     <file path="/Watcher.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406717089947" ignored="false" />
-    <file path="/Watcher2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406717146392" ignored="false" />
+    <file path="/Watcher2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074175236" ignored="false" />
     <file path="F:/ssh/Spring_Struts2_Mvn/.idea/workspace.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399965799197" ignored="false" />
     <file path="/Bubble.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399966230443" ignored="false" />
-    <file path="/Test1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407121998003" ignored="false" />
+    <file path="/Test1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408084475848" ignored="false" />
     <file path="/Test2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407310496044" ignored="false" />
     <file path="/Test3.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407119768877" ignored="false" />
     <file path="/Test4.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407133279070" ignored="false" />
@@ -158,7 +158,7 @@
     <file path="/StepComparatorTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399970601179" ignored="false" />
     <file path="/Transfer.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407167507588" ignored="false" />
     <file path="$PROJECT_DIR$/../mybatis/org/apache/ibatis/cache/Cache.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1399980138510" ignored="false" />
-    <file path="/Test5.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407194123430" ignored="false" />
+    <file path="/Test5.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407980616769" ignored="false" />
     <file path="/bean.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400068651411" ignored="false" />
     <file path="F:/gitcommit/platform/riskManagement/riskManagement-business/riskManagement-business-riskmodel/src/main/java/org/whut/platform/business/riskmodel/mapper/RiskModelMapper.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400143212212" ignored="false" />
     <file path="F:/gitcommit/platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/main/java/org/whut/platform/business/craneinspectreport/riskcalculate/ICalculateRisk.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400143367211" ignored="false" />
@@ -173,32 +173,32 @@
     <file path="F:/gitcommit/platform/riskManagement/riskManagement-business/riskManagement-business-craneInspectReport/src/test/java/org/whut/platform/business/craneinspectreport/test/CraneInspectReportTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400151749362" ignored="false" />
     <file path="/CraneInspectReportTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400151442843" ignored="false" />
     <file path="F:/gitcommit/platform/fundamental/fundamental-mongoConnector/src/main/java/org/whut/platform/fundamental/mongo/connector/MongoConnector.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400151328567" ignored="false" />
-    <file path="/Test6.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407334228258" ignored="false" />
+    <file path="/Test6.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407981041361" ignored="false" />
     <file path="/Test7.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407339021505" ignored="false" />
-    <file path="/Test8.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404370756324" ignored="false" />
+    <file path="/Test8.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407898465997" ignored="false" />
     <file path="/Test9.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404374261135" ignored="false" />
     <file path="/DateUtils.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400769330572" ignored="false" />
     <file path="/MyStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400808333499" ignored="false" />
-    <file path="/IStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406624630642" ignored="false" />
-    <file path="/ArrayStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406625376848" ignored="false" />
+    <file path="/IStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408282689272" ignored="false" />
+    <file path="/ArrayStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408283223775" ignored="false" />
     <file path="/ArrayStackTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401587840199" ignored="false" />
-    <file path="/LinkStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401589987145" ignored="false" />
+    <file path="/LinkStack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408075311015" ignored="false" />
     <file path="/LinkStackTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401333528137" ignored="false" />
     <file path="/IArray.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400829550504" ignored="false" />
     <file path="/ArrayImpl.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400831204902" ignored="false" />
-    <file path="/Queue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401349199250" ignored="false" />
-    <file path="/ArrayQueue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401349514132" ignored="false" />
+    <file path="/Queue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408322805468" ignored="false" />
+    <file path="/ArrayQueue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408324083047" ignored="false" />
     <file path="/ArrayQueueTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400836379159" ignored="false" />
-    <file path="/QuickSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406306775609" ignored="false" />
+    <file path="/QuickSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408065156162" ignored="false" />
     <file path="/SelectSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404695513292" ignored="false" />
-    <file path="/InsertSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406306962568" ignored="false" />
+    <file path="/InsertSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408333501539" ignored="false" />
     <file path="/InsertSort1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400847139644" ignored="false" />
-    <file path="/MergeSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406339113976" ignored="false" />
-    <file path="/StringDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400915053924" ignored="false" />
+    <file path="/MergeSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408066572952" ignored="false" />
+    <file path="/StringDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407946521060" ignored="false" />
     <file path="/ThreadDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400915305579" ignored="false" />
     <file path="/Spike.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400915825017" ignored="false" />
     <file path="/SimpleCache.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400917599801" ignored="false" />
-    <file path="/CachePool.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401339361585" ignored="false" />
+    <file path="/CachePool.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408324847710" ignored="false" />
     <file path="/CacheDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400924938854" ignored="false" />
     <file path="/CacheDemo1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400925658794" ignored="false" />
     <file path="/CacheDemo2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1400926498475" ignored="false" />
@@ -242,12 +242,12 @@
     <file path="/TestTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401287763251" ignored="false" />
     <file path="F:/gitcommit/platform/inspectManagement/inspectManagementWeb/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401333720322" ignored="false" />
     <file path="F:/gitcommit/platform/inspectManagement/inspectManagementWeb/src/main/webapp/menu.html" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401333907982" ignored="false" />
-    <file path="/CachePool1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401344321977" ignored="false" />
+    <file path="/CachePool1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408327971927" ignored="false" />
     <file path="/SequeueQueue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401346629482" ignored="false" />
     <file path="/SequenceQueue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401346630260" ignored="false" />
     <file path="/SquenceQueueTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401346744861" ignored="false" />
     <file path="/LinkQueue.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401352178271" ignored="false" />
-    <file path="/Node.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406637285436" ignored="false" />
+    <file path="/Node.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408102941554" ignored="false" />
     <file path="/MyTree.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401358471953" ignored="false" />
     <file path="/MyTreeClient.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401358812052" ignored="false" />
     <file path="$PROJECT_DIR$/../sqltest/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401535915463" ignored="false" />
@@ -279,10 +279,10 @@
     <file path="/InsertDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401454895935" ignored="false" />
     <file path="/straightInsertionSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401459064778" ignored="false" />
     <file path="/InsertSortDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401459754090" ignored="false" />
-    <file path="/ShellSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406336284396" ignored="false" />
-    <file path="/HeapSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406345785903" ignored="false" />
-    <file path="/BubbleSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406220559456" ignored="false" />
-    <file path="/quickSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401504892689" ignored="false" />
+    <file path="/ShellSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408066198664" ignored="false" />
+    <file path="/HeapSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408067841015" ignored="false" />
+    <file path="/BubbleSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408346161296" ignored="false" />
+    <file path="/quickSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408064836696" ignored="false" />
     <file path="/MergeSortDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401521180500" ignored="false" />
     <file path="/FlyWeight.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401544331521" ignored="false" />
     <file path="/ConcreteFlyweight.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401534519157" ignored="false" />
@@ -297,7 +297,7 @@
     <file path="/FlyWeightPattern.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401544975199" ignored="false" />
     <file path="/Calculator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407050976574" ignored="false" />
     <file path="/ArithHelper.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401608545217" ignored="false" />
-    <file path="/BinarySearch.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406682952395" ignored="false" />
+    <file path="/BinarySearch.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408329489038" ignored="false" />
     <file path="/BinarySearchDemo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401614981762" ignored="false" />
     <file path="/ReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401700940312" ignored="false" />
     <file path="/HtmlReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401700985958" ignored="false" />
@@ -310,7 +310,7 @@
     <file path="/PdfGenerateReport.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715662882" ignored="false" />
     <file path="/components2.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401717511045" ignored="false" />
     <file path="/reportService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401715863545" ignored="false" />
-    <file path="/AudiCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406709641467" ignored="false" />
+    <file path="/AudiCar.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408091087623" ignored="false" />
     <file path="/CarService.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401756502332" ignored="false" />
     <file path="/CarContainer.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401756905935" ignored="false" />
     <file path="/carcomponents.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1401720240455" ignored="false" />
@@ -325,7 +325,7 @@
     <file path="/Top100.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404025204186" ignored="false" />
     <file path="/BaiduHelper.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404356498268" ignored="false" />
     <file path="/Stack.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404356910400" ignored="false" />
-    <file path="/Test10.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404376219466" ignored="false" />
+    <file path="/Test10.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408017635741" ignored="false" />
     <file path="/Test11.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404379143762" ignored="false" />
     <file path="/RemoveRepeat.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404379450824" ignored="false" />
     <file path="/Test12.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404381057328" ignored="false" />
@@ -350,14 +350,14 @@
     <file path="/MergeSort2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404701802975" ignored="false" />
     <file path="/JSONTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404734176241" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JsonTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404736930103" ignored="false" />
-    <file path="/JsonTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404736875374" ignored="false" />
+    <file path="/JsonTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408088155256" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JSONException.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404737169377" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JsonArray.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404737169377" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JsonParse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404737169377" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JsonObject.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404737169377" ignored="false" />
     <file path="E:/git/test/src/main/java/json/JsonP.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404737422592" ignored="false" />
     <file path="E:/git/test/src/main/java/json/tool/JsonParse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404805565060" ignored="false" />
-    <file path="/JsonParse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404805565060" ignored="false" />
+    <file path="/JsonParse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408087224320" ignored="false" />
     <file path="E:/git/test/src/main/java/json/tool/JsonParseTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404805221085" ignored="false" />
     <file path="/JsonParseTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404740567021" ignored="false" />
     <file path="E:/git/test/src/main/java/json/tool/JsonUtil.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1404741990899" ignored="false" />
@@ -387,10 +387,10 @@
     <file path="/Fibonacci.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405087876642" ignored="false" />
     <file path="/FibonacciX.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405089030903" ignored="false" />
     <file path="/FibonacciXX.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405089362983" ignored="false" />
-    <file path="/LinkReverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406638271144" ignored="false" />
+    <file path="/LinkReverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407933945378" ignored="false" />
     <file path="/PrimeFactor.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405305479213" ignored="false" />
     <file path="/Factorization.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405305927240" ignored="false" />
-    <file path="/GetCount.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407206424402" ignored="false" />
+    <file path="/GetCount.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407944886641" ignored="false" />
     <file path="/TestTranslateTelNum.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405308478127" ignored="false" />
     <file path="/Transfer2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405330398920" ignored="false" />
     <file path="/suffix_expression.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1405334115755" ignored="false" />
@@ -408,7 +408,7 @@
     <file path="E:/gitcommit/Spring/src/main/java/ioc/HtmlReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406182938037" ignored="false" />
     <file path="E:/gitcommit/Spring/src/main/java/ioc/Main.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406182938037" ignored="false" />
     <file path="E:/gitcommit/Spring/src/main/java/ioc/PdfReportGenerator.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406182938037" ignored="false" />
-    <file path="/MyThread.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406255862524" ignored="false" />
+    <file path="/MyThread.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408238654780" ignored="false" />
     <file path="E:/gitcommit/pptDemo/src/main/java/demo/Annamal.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406355304784" ignored="false" />
     <file path="/Annamal.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406355294939" ignored="false" />
     <file path="E:/gitcommit/pptDemo/src/main/java/demo/Dog.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406355326375" ignored="false" />
@@ -451,9 +451,9 @@
     <file path="E:/gitcommit/ThinkInJava/src/main/java/socket/Client.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406635206854" ignored="false" />
     <file path="E:/gitcommit/ThinkInJava/src/main/java/socket/Server.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406635122849" ignored="false" />
     <file path="E:/gitcommit/ThinkInJava/src/main/java/socket/Test.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406637123251" ignored="false" />
-    <file path="/BinTreeTraverse2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406641011322" ignored="false" />
+    <file path="/BinTreeTraverse2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408094085022" ignored="false" />
     <file path="E:/gitcommit/ThinkInJava/src/main/java/tree/BinTreeTraverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406646682411" ignored="false" />
-    <file path="/BinTreeTraverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406646682411" ignored="false" />
+    <file path="/BinTreeTraverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408324316397" ignored="false" />
     <file path="E:/gitcommit/ThinkInJava/src/main/java/tree/BinTreeTranverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406649295438" ignored="false" />
     <file path="/BinTreeTranverse.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406649295438" ignored="false" />
     <file path="E:/gitcommit/ThinkInJava/src/main/java/com/find/BinarySearch.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1406682953142" ignored="false" />
@@ -542,7 +542,7 @@
     <file path="/GetNumber.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407116428920" ignored="false" />
     <file path="/StringTest2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407117149950" ignored="false" />
     <file path="/StringTest3.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407119230200" ignored="false" />
-    <file path="/LeftRotate.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407155753957" ignored="false" />
+    <file path="/LeftRotate.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408104840974" ignored="false" />
     <file path="/IsInclude.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407157268779" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/exam1/Top.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407157388368" ignored="false" />
     <file path="/TopN.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407157432989" ignored="false" />
@@ -580,7 +580,7 @@
     <file path="E:/gitcommit/platform/inspectManagement/inspectManagementWeb/src/main/webapp/map/addMarker.js" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407232316277" ignored="false" />
     <file path="/addMarker.js" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407232252151" ignored="false" />
     <file path="/FindTwoNum.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407233893107" ignored="false" />
-    <file path="/GetSum.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407500777993" ignored="false" />
+    <file path="/GetSum.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407935988549" ignored="false" />
     <file path="E:/gitcommit/platform/inspectManagement/inspectManagementWeb/src/main/webapp/dashboard/geoInfo.html" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407242561076" ignored="false" />
     <file path="/geoInfo.html" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407242224444" ignored="false" />
     <file path="/JuZhenRever.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407243765328" ignored="false" />
@@ -600,7 +600,7 @@
     <file path="$PROJECT_DIR$/src/main/java/exam/GetSuhu.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407551077172" ignored="false" />
     <file path="/GetSuShu.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407551539275" ignored="false" />
     <file path="/Tets.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407601265416" ignored="false" />
-    <file path="/ITest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407638837063" ignored="false" />
+    <file path="/ITest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408329983616" ignored="false" />
     <file path="/TestA.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407670234858" ignored="false" />
     <file path="/TestB.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407676234706" ignored="false" />
     <file path="/TestC.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407677661484" ignored="false" />
@@ -613,8 +613,61 @@
     <file path="/CopyTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407810503744" ignored="false" />
     <file path="/GetSame.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407834992140" ignored="false" />
     <file path="/GetMi.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407835200556" ignored="false" />
-    <file path="/LinkSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407860038570" ignored="false" />
+    <file path="/LinkSort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408075154307" ignored="false" />
     <file path="/Comp.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407858257030" ignored="false" />
+    <file path="/Perm.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407888296675" ignored="false" />
+    <file path="/Feige.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407893302951" ignored="false" />
+    <file path="/GetMaxSubArrayFromArray.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407896565600" ignored="false" />
+    <file path="/FilterString.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407899533385" ignored="false" />
+    <file path="/TestStr.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407910573622" ignored="false" />
+    <file path="/GetHanZi.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407913627498" ignored="false" />
+    <file path="/GenerateNum.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407914197097" ignored="false" />
+    <file path="/GetZeroCount.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407917607093" ignored="false" />
+    <file path="/GetStringPipei.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407925173192" ignored="false" />
+    <file path="/GetLinkTwo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407925453122" ignored="false" />
+    <file path="/MyLink.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407925748196" ignored="false" />
+    <file path="/GetMaxSub.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407933759231" ignored="false" />
+    <file path="/Link.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407934803403" ignored="false" />
+    <file path="/NodeTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407935393064" ignored="false" />
+    <file path="/JudgeIsHouXu.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407938891418" ignored="false" />
+    <file path="/Pipei.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407941712769" ignored="false" />
+    <file path="/FeiBoLaQie.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074865399" ignored="false" />
+    <file path="/GetStackSquence.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407986160828" ignored="false" />
+    <file path="/StackSequence.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1407987544750" ignored="false" />
+    <file path="/AllRange.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408030077054" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/algorithm/sort/first/Bubble.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408062101042" ignored="false" />
+    <file path="/SortProxy.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408062478932" ignored="false" />
+    <file path="/ISort.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408062564796" ignored="false" />
+    <file path="/StackTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408072548711" ignored="false" />
+    <file path="/Sigonlen.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408073296174" ignored="false" />
+    <file path="/IFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408073327898" ignored="false" />
+    <file path="/CarFactory.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408092323488" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/algorithm/sort/designPattern/watch/Watcher.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074030801" ignored="false" />
+    <file path="/Watcher1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074120306" ignored="false" />
+    <file path="/Feibo.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408074601498" ignored="false" />
+    <file path="/JsonTest1.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408089509192" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/jdbc/MyDataSource.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408090822852" ignored="false" />
+    <file path="/jdbc1.properties" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408092346586" ignored="false" />
+    <file path="/TreeTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408098101636" ignored="false" />
+    <file path="/TreeTest2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408099266297" ignored="false" />
+    <file path="/TreeTest3.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408102174615" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/algorithm/sort/struct/ta.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408102306865" ignored="false" />
+    <file path="/Fenge.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408104271528" ignored="false" />
+    <file path="/KMP.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408106785058" ignored="false" />
+    <file path="/TestCatch.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408118963992" ignored="false" />
+    <file path="/TreeTet4.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408157677011" ignored="false" />
+    <file path="/IOTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408157950831" ignored="false" />
+    <file path="E:/gitcommit/platform/inspectManagement/inspectManagementWeb/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408178599588" ignored="false" />
+    <file path="/ClassLoaderTest.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408184850814" ignored="false" />
+    <file path="/QuChogn.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408197327018" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/algorithm/sort/exception.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408240270917" ignored="false" />
+    <file path="/ExceptionThread.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408240920066" ignored="false" />
+    <file path="/ProductThread.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408247386279" ignored="false" />
+    <file path="/ConsumerThread.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408247604475" ignored="false" />
+    <file path="E:/gitcommit/platform/fundamental/fundamental-sms/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408258919801" ignored="false" />
+    <file path="E:/gitcommit/platform/fundamental/pom.xml" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408258919801" ignored="false" />
+    <file path="/CachePool2.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408325815430" ignored="false" />
+    <file path="/MyString.java" changelist="4f680436-0bda-47ad-b5b7-2da0bec14e7b" time="1408343337180" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -648,41 +701,6 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/whut/test/Test9.java" line="52" class="org.whut.test.Test9" package="org.whut.test">
         <option name="ENABLED" value="true" />
@@ -727,6 +745,41 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -735,20 +788,7 @@
     <favorites_list name="test4" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LinkSort.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cal/LinkSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="27" selection-start="631" selection-end="631" vertical-scroll-proportion="0.48802397">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#514#523#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -765,22 +805,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cal/ITest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/TestProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/TestA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/TestB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/TestC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/JavaD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/getSub.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/GetSub1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/NodeReverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/GetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/CopyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/GetSame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/GetMi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/Comp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cal/LinkSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/queue1/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/queue1/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/thread/Business.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/queue2/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/queue2/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/test/BinTreeTraverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/cache/CachePool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/cache/CachePool2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/cache/CachePool1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/find/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/io/ITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/find/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/string/MyString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/string/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/sortTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/sort/sortTest/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -842,10 +882,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-75" />
-    <option name="y" value="45" />
-    <option name="width" value="1382" />
-    <option name="height" value="729" />
+    <option name="x" value="51" />
+    <option name="y" value="43" />
+    <option name="width" value="1366" />
+    <option name="height" value="757" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -875,6 +915,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1025,13 +1066,110 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cal" />
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1040,11 +1178,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="last_opened_file_path" value="E:/gitcommit/platform" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="test4" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -1062,37 +1200,37 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exam1" />
       <recent name="org.java.test.javaBase.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git\test4\src\main\java\algorithm" />
       <recent name="F:\git\test4\src\main\java\jsonTool" />
       <recent name="F:\git\test4\src\main\java\test" />
       <recent name="F:\git\test4\src" />
       <recent name="F:\git\test4\src\main\java" />
-      <recent name="F:\git\test4\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkSort">
-    <configuration default="false" name="CopyTest" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cal.*" />
+          <option name="PATTERN" value="algorithm.sort.find.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cal.CopyTest" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.find.BinarySearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1107,14 +1245,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="GetSame" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="InsertSort" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cal.*" />
+          <option name="PATTERN" value="algorithm.sort.find.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cal.GetSame" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.find.InsertSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1129,14 +1267,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="GetMi" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MyString" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cal.*" />
+          <option name="PATTERN" value="algorithm.sort.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cal.GetMi" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.string.MyString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1151,14 +1289,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Comp" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="StringTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cal.*" />
+          <option name="PATTERN" value="algorithm.sort.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cal.Comp" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.string.StringTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1173,14 +1311,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LinkSort" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cal.*" />
+          <option name="PATTERN" value="algorithm.sort.sortTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cal.LinkSort" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.sortTest.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1230,6 +1368,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1256,19 +1407,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1305,6 +1443,50 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="JsonTest1" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jsonParse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jsonParse.JsonTest1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test4" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Node" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algorithm.sort.struct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.struct.Node" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test4" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="Transfer2" type="Application" factoryName="Application">
@@ -1429,25 +1611,27 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="10">
-      <item index="0" class="java.lang.String" itemvalue="Application.Transfer2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AbsMin" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RankTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MergeSort2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test22" />
-      <item index="5" class="java.lang.String" itemvalue="Application.CopyTest" />
-      <item index="6" class="java.lang.String" itemvalue="Application.GetSame" />
-      <item index="7" class="java.lang.String" itemvalue="Application.GetMi" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Comp" />
-      <item index="9" class="java.lang.String" itemvalue="Application.LinkSort" />
+    <list size="12">
+      <item index="0" class="java.lang.String" itemvalue="Application.JsonTest1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Node" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Transfer2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AbsMin" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RankTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MergeSort2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test22" />
+      <item index="7" class="java.lang.String" itemvalue="Application.BinarySearch" />
+      <item index="8" class="java.lang.String" itemvalue="Application.InsertSort" />
+      <item index="9" class="java.lang.String" itemvalue="Application.MyString" />
+      <item index="10" class="java.lang.String" itemvalue="Application.StringTest" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LinkSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Comp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GetMi" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GetSame" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CopyTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InsertSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1503,32 +1687,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-75" y="45" width="1382" height="729" extended-state="1" />
-    <editor active="true" />
+    <frame x="51" y="43" width="1366" height="757" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957503" sideWeight="0.6355786" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903782" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13257575" sideWeight="0.58551306" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45620438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44973546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295711" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3697183" sideWeight="0.6212121" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17121212" sideWeight="0.2653846" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29907975" sideWeight="0.36241612" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.6483705" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3070326" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23863636" sideWeight="0.6355634" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36443663" sideWeight="0.99895066" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29907975" sideWeight="0.62583894" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11912752" sideWeight="0.99895066" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5116279" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51011235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42857143" sideWeight="0.6212121" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07072516" sideWeight="0.3287037" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1598,132 +1782,91 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/CachePool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="1" selection-start="661" selection-end="661" vertical-scroll-proportion="0.68641114">
+        <state line="11" column="19" selection-start="203" selection-end="203" vertical-scroll-proportion="0.25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/cache/CachePool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="20" selection-start="347" selection-end="347" vertical-scroll-proportion="0.25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/cache/CachePool1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="309" selection-end="309" vertical-scroll-proportion="0.35" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/structure/sort/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="18" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/structure/test/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="26" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/io/IOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="24" selection-start="7219" selection-end="7219" vertical-scroll-proportion="0.33636364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/io/ITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="202" selection-end="202" vertical-scroll-proportion="0.07115385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/find/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="88" selection-start="846" selection-end="846" vertical-scroll-proportion="0.62721896" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/first/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/find/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="23" selection-start="469" selection-end="469" vertical-scroll-proportion="0.5053476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/string/MyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="635" selection-end="635" vertical-scroll-proportion="1.3153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/TestA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/string/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="22" selection-start="523" selection-end="523" vertical-scroll-proportion="0.4280822">
+        <state line="25" column="8" selection-start="817" selection-end="817" vertical-scroll-proportion="0.20099255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/TestB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/sortTest/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="71" selection-start="435" selection-end="435" vertical-scroll-proportion="0.7226027">
+        <state line="16" column="28" selection-start="466" selection-end="466" vertical-scroll-proportion="0.32128513">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/TestC.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/sort/sortTest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="594" selection-end="594" vertical-scroll-proportion="0.6452599">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="66" selection-start="1617" selection-end="1629" vertical-scroll-proportion="-23.092714" />
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files(x86)/Java/jdk1.6.0_43/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="15" selection-start="1361" selection-end="1373" vertical-scroll-proportion="-5.3013244">
+        <state line="14" column="40" selection-start="392" selection-end="392" vertical-scroll-proportion="0.40361446">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/JavaD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="13" selection-start="598" selection-end="598" vertical-scroll-proportion="0.6079137">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/getSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="81" selection-start="742" selection-end="742" vertical-scroll-proportion="0.5585831">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#487#495#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/GetSub1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="484" selection-end="484" vertical-scroll-proportion="0.41144413">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/NodeReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="218" selection-end="218" vertical-scroll-proportion="0.048561152">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/GetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="342" selection-end="342" vertical-scroll-proportion="0.6545454">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/CopyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="582" selection-end="582" vertical-scroll-proportion="0.9767442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/GetSame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="730" selection-end="730" vertical-scroll-proportion="0.8503937">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/GetMi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="76" selection-start="189" selection-end="189" vertical-scroll-proportion="0.077586204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/Comp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="51" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.6168224">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#862#868#0" expanded="true" />
-            <element signature="e#1181#1187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cal/LinkSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="27" selection-start="631" selection-end="631" vertical-scroll-proportion="0.48802397">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#514#523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

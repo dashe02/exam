@@ -10,7 +10,7 @@ package org.java.test.reflect;
 public class Main {
       public static void main(String[] args){
           try{
-              Class c=Class.forName("org.java.Test.reflect.BmwCar");
+              Class c=Class.forName("org.java.Test.reflectTest.BmwCar");
               ICar iCar=(ICar)c.newInstance();
               iCar.run();
           }catch (Exception e){
