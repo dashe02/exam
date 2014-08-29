@@ -12,7 +12,8 @@ import java.io.FileInputStream;
  * To change this template use File | Settings | File Templates.
  */
 public class ClassLoaderDemo extends ClassLoader{
-    private static final String drive="e:/classLoader/";
+   /* private static final String drive="e:/classLoader/";*/
+    private static final String drive="F:/Program Files(x86)/Java/jdk1.6.0_43/lib/";
     private static final String fileType=".class";
 
     public ClassLoaderDemo(){

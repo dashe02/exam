@@ -24,8 +24,23 @@ public class BinarySearch {
              }
           return -1;
       }
+    public static int binarySearch1(int[] srcArray,int des) {
+        int low=0;
+        int high=srcArray.length-1;
+        while (low<high){
+            int middle=(low+high)/2;
+            if(des==srcArray[middle]){
+                return middle;
+            }else if(des<srcArray[middle]){
+                high=middle;
+            }else{
+                low=middle;
+            }
+        }
+        return -1;
+    }
     public static void main(String[] args){
         int[] srcArray={1,3,4,6,8,9};
-        System.out.println(binarySearch(srcArray,3));
+        System.out.println(binarySearch1(srcArray,3));
     }
 }

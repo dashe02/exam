@@ -8,11 +8,14 @@ package algorithm.sort.first;
  * To change this template use File | Settings | File Templates.
  */
 public class Test {
+
     public static void main(String[] args){
-           int[] a={1,3,2,5,6,7,0};
-           HeapSort.heapSort(a);
+        int a[]={15,2,3,5,22,3,22,42,7,8,96,34,57,8};
+        QuickSort.quickSort(a);
            for(int i=0;i<a.length;i++){
                System.out.println(a[i]);
            }
+        StringBuilder sb=new StringBuilder();
+        sb.append("1");
     }
 }

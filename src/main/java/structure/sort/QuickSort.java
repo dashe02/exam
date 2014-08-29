@@ -19,6 +19,7 @@ public class QuickSort {
                 low++;
             }
             a[high]=a[low];
+            high--;
         }
         a[low]=tmp;
         return low;
@@ -37,7 +38,8 @@ public class QuickSort {
     }
     public static void main(String[] args){
         QuickSort quickSort=new QuickSort();
-        int[] a={34,3,53,2,23,7,14,10};
+       /* int[] a={34,3,53,2,23,7,14,10};*/
+        int a[]={15,2,3,5,22,3,22,42,7,8,96,34,57,8};
         quickSort.quick(a);
         for(int i=0;i<a.length;i++){
             System.out.println(a[i]);

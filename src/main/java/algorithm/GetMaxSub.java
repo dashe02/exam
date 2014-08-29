@@ -32,7 +32,11 @@ public class GetMaxSub {
         System.out.println(max+","+start+","+end);
     }
     public static void main(String[] args){
-        int[] array={1,4,6,0,-3,-5};
+        /*int[] array={1,4,6,0,-3,-5};*/
+        int[] array={1,4,-9,0,5,7};
         getMaxSub(array);
+        StringBuilder sb=new StringBuilder();
+        sb.reverse();
+
     }
 }
